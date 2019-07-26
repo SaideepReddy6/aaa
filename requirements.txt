@@ -1,0 +1,9 @@
+Flask==1.0.2
+Werkzeug==0.14
+gunicorn==19.9.0
+pandas==0.24.2
+xlrd==1.1.0
+pyodbc==4.0.26
+azure-common==1.1.23
+azure-storage==0.36.0
+azure-storage-blob==2.0.1
